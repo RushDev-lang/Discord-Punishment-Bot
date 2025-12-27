@@ -1,0 +1,51 @@
+[
+  {
+    "userId": "1404567085522096158",
+    "warn": 1,
+    "reason": "Test",
+    "time": 1766747820,
+    "expire": 1767352620
+  },
+  {
+    "userId": "1404567085522096158",
+    "warn": 1,
+    "reason": "Test",
+    "time": 1766747876,
+    "expire": 1767352676
+  },
+  {
+    "userId": "1404567085522096158",
+    "warn": 1,
+    "reason": "test",
+    "time": 1766747992,
+    "expire": 1767352792
+  },
+  {
+    "userId": "1208688089837338686",
+    "warn": 1,
+    "reason": "Test",
+    "time": 1766748342,
+    "expire": 1767353142
+  },
+  {
+    "userId": "1410338863741800528",
+    "warn": 1,
+    "reason": "ESP Chest",
+    "time": 1766752100,
+    "expire": 1767356900
+  },
+  {
+    "userId": "1410338863741800528",
+    "warn": 2,
+    "reason": "X-ray",
+    "time": 1766759493,
+    "expire": 1767364293
+  },
+  {
+    "userId": "1073973602891857920",
+    "warn": 1,
+    "reason": "Creative Orbital Rail Cannon (Schematics) + Backup",
+    "time": 1766761838,
+    "expire": 1767366638
+  }
+]
